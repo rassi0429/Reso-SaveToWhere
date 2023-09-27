@@ -3,6 +3,7 @@
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/)  
 Just display the save destination
 
+![image](https://github.com/rassi0429/Reso-SaveToWhere/assets/91118218/db5b6e55-c02c-40a9-b49a-27e23a9ac2c8)
 
 
 ## Installation
