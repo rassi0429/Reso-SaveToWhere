@@ -9,8 +9,8 @@ namespace SaveToWhere
 {
     public class SaveToWhere : ResoniteMod
     {
-		internal const string VERSION_CONSTANT = "2.1.0"; //Changing the version here updates it in all locations needed
-		public override string Name => "SaveToWhere";
+        internal const string VERSION_CONSTANT = "2.1.0"; //Changing the version here updates it in all locations needed
+        public override string Name => "SaveToWhere";
         public override string Author => "kka429";
         public override string Version => VERSION_CONSTANT;
         public override string Link => "https://github.com/rassi0429/Reso-SaveToWhere"; // this line is optional and can be omitted
